@@ -283,7 +283,7 @@ Check the Manifest File and do not forget to add
 
 ## Now Run the app -> then make it background then  send notification from firebase  see in the debug console you are getting the data in the background 
 
-
-For help mail - tasnuva.oshin12@gmail.com
-thanks
+- For More Check the Repository 
+- Connect Me - tasnuva.oshin12@gmail.com
+- thanks
 
