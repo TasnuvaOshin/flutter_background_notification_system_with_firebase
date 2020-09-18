@@ -281,6 +281,13 @@ Check the Manifest File and do not forget to add
 ```
 
 
+Do Not Forget to Add Notification Chanell when u send the notification 
+
+https://github.com/TasnuvaOshin/flutter_background_notification_system_with_firebase/blob/master/Screenshot%202020-09-18%20at%202.30.07%20PM.png
+
+Check out the Sending Format 
+
+
 ## Now Run the app -> then make it background then  send notification from firebase  see in the debug console you are getting the data in the background 
 
 - For More Check the Repository 
