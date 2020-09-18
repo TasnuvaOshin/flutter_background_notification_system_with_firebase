@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203972060488",
+    "firebase_url": "https://flutterbackgroundnotification.firebaseio.com",
+    "project_id": "flutterbackgroundnotification",
+    "storage_bucket": "flutterbackgroundnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203972060488:android:e510c6160ba8ddd440bf7d",
+        "android_client_info": {
+          "package_name": "com.example.flutterBackgroundNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203972060488-dakcv41rf7pibl683bom1taettr3s71t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7DM-e7wx8SnZrFOd04CpKaN6gyHXcwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203972060488-dakcv41rf7pibl683bom1taettr3s71t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
